@@ -1,0 +1,24 @@
+*.pyc
+*__pycache__/
+
+# Airflow
+Assignment2/airflow.db
+Assignment2/airflow-webserver.pid
+Assignment2/logs/
+Assignment2/dags/__pycache__/
+
+# Docker
+Assignment2/logs/
+Assignment2/airflow.cfg
+
+logs/
+
+
+# Credentials
+.env
+
+# Python
+venv/
+env
+*env
+trip-venv/
