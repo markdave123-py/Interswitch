@@ -3,7 +3,7 @@ from utils.clickhouse import fetch_metrics_from_clickhouse
 from utils.config import get_config
 from utils.config import get_config
 
-from inpesct import inspect_db
+from Assignment2.dags.inspect import inspect_db
 
 
 
